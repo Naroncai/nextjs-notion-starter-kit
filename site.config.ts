@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Naron',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'not.zeabur.app',
   author: 'Naron',
 
   // open graph metadata (optional)
